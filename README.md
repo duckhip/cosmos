@@ -1,7 +1,7 @@
 ## ToC
 
 * [Purpose](PURPOSE.md)
-* [Whitepaper EN](WHITEPAPER.md) | [Whitepaper KO](https://docs.google.com/document/d/1p1EpkUbX7f6QyGlDxDnjSuj66gn1KUMnJr2weIQVcTo/edit?usp=sharing)
+* [Whitepaper EN](WHITEPAPER.md) | [Whitepaper KO](https://docs.google.com/document/d/1p1EpkUbX7f6QyGlDxDnjSuj66gn1KUMnJr2weIQVcTo/edit?usp=sharing) 한글버전
 * [Crowdfund Plan](PLAN.md)
 * [Faq](FAQ.md)
 * [Chat](https://cosmos.network/community)
